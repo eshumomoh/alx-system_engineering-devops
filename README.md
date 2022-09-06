@@ -1,2 +1,1 @@
-Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script.
-0-hello_world
+Write a script that prints “Hello, World”, followed by a new line to the standard output.
