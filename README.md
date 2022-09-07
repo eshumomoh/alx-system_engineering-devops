@@ -1,1 +1,1 @@
-confused smiley
+Create a script that creates an alias
